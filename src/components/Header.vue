@@ -9,7 +9,7 @@ export default{
 
 <div class="headerArea">
     <RouterLink to="/">Home</RouterLink>
-    <RouterLink to="/about">About</RouterLink>
+    <RouterLink to="/quiz">Quiz</RouterLink>
 </div>
 
 </template>
